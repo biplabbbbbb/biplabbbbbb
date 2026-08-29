@@ -1,385 +1,212 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0728,35:3B1B73,70:6D28D9,100:2563EB&height=220&section=header&text=Ujenen&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Product%20Builder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,1e0033,4b0082,8a2be2&height=250&section=header&text=Biplab%20Bhowmik&fontSize=75&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descSize=25&fontColor=ffffff" alt="Header" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+scalable+software+systems;Engineering+AI-powered+products;Full-Stack+Development+%7C+AI%2FML+%7C+Cloud;Turning+complex+problems+into+simple+products" alt="Typing SVG"/>
+<!-- Typing SVG -->
+<a href="https://github.com/biplabbbbbb">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&height=50&lines=Core+Software+Engineering+%7C+Data+Structures;Artificial+Intelligence+%7C+Machine+Learning;C%2B%2B+%7C+Python+%7C+FastAPI;Building+Intelligent+Scalable+Systems" alt="Typing Animation"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-Focused-4F46E5?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software-Engineering-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Developer-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<!-- Academic & Location Badges -->
+<img src="https://img.shields.io/badge/B.Tech_CSE_(AI/ML)-Parul_University-4b0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic"/>
+<img src="https://img.shields.io/badge/Location-Vadodara,_Gujarat-8a2be2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/unendev">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hello@example.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/unendev">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- Connect Buttons -->
+<a href="https://linkedin.com/in/biplabbhowmik"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:biplab@example.com"><img src="https://img.shields.io/badge/Email-8a2be2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/biplabbbbbb"><img src="https://img.shields.io/badge/GitHub-1e0033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=unendev&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/unendev?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/unendev?style=for-the-badge&color=7C3AED&label=STARS"/>
+<!-- Profile Stats Badges -->
+<img src="https://komarev.com/ghpvc/?username=biplabbbbbb&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views"/>
+<img src="https://img.shields.io/github/followers/biplabbbbbb?label=Followers&style=flat-square&color=4b0082" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/biplabbbbbb?style=flat-square&color=8a2be2" alt="Stars"/>
 
 </div>
 
----
-
-## About
-
-I am a software engineer focused on building **reliable, scalable, and intelligent software products**.
-
-My engineering interests span **software architecture, AI/ML systems, full-stack development, developer tooling, and product engineering**. I enjoy taking ideas from an initial concept through architecture, implementation, testing, deployment, and continuous iteration.
-
-I approach engineering with a product mindset: understand the problem first, design for maintainability, build measurable solutions, and continuously improve the user experience.
-
-- Software engineering with strong focus on clean architecture and maintainability
-- AI/ML systems, LLM applications, RAG, intelligent automation, and applied AI
-- Full-stack web application development
-- Backend APIs, distributed services, databases, and system integration
-- Cloud-native development, CI/CD, observability, and developer tooling
-- Product engineering from idea → prototype → production
-
-### Open To
-
-`Software Engineering` · `AI/ML Engineering` · `Full-Stack Engineering` · `Open Source` · `Product Engineering` · `Collaborations`
+<br/>
 
 ---
 
-## Tech Stack
+## ✦ About
+
+I am a Software Engineer specializing in **Artificial Intelligence and Machine Learning**, currently pursuing my B.Tech in CSE at Parul University. My engineering philosophy revolves around building highly optimized, scalable systems backed by a strong foundation in Core Data Structures and Algorithms. 
+
+I leverage **C++** for writing high-performance, execution-critical logic and **Python** for architecting advanced machine learning models and data pipelines. Rather than focusing on superficial front-end styling, I adopt a product engineering mindset—designing robust backend architectures (FastAPI) and intelligent predictive engines that solve complex real-world problems.
+
+* **Engineering Focus:** Core DSA, Low-Latency Systems, System Architecture.
+* **AI/ML Focus:** Predictive Modeling, Data Pipelines, TensorFlow/PyTorch Integrations.
+* **Open To:** SDE Internships, AI/ML Engineering Roles, Open Source Collaborations (Targeting FAANG & Tier-1 Tech).
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
 
 ### Languages
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" alt="Languages"/></a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,go,rust,bash&theme=dark"/>
-</p>
+### Backend, AI/ML & Frameworks
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,tensorflow,pytorch,scikitlearn,pandas&theme=dark" alt="Backend and AI"/></a>
 
-### Frontend
+### Databases & Cloud Tooling
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&theme=dark" alt="DB and Tools"/></a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,vite&theme=dark"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,postgres,mysql,mongodb,redis&theme=dark"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,linux,nginx,terraform,grafana&theme=dark"/>
-</p>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Generative AI | Advanced | LLM-powered applications, structured generation, prompt engineering, model integration |
-| Retrieval-Augmented Generation | Advanced | Embeddings, vector search, retrieval pipelines, contextual generation |
-| AI Agents | Advanced | Tool use, orchestration, autonomous workflows, context engineering |
-| Machine Learning | Intermediate | Model development, evaluation, preprocessing, experimentation |
-| Deep Learning | Intermediate | Neural architectures, representation learning, inference workflows |
-| NLP | Advanced | Text processing, semantic search, classification, information extraction |
-| Computer Vision | Intermediate | Image understanding, preprocessing, detection and classification |
-| AI Engineering | Advanced | Production AI systems, APIs, evaluation, observability, optimization |
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>AI-Powered Knowledge & RAG Platform</strong></summary>
+</div>
 
 <br/>
 
-An intelligent knowledge platform designed around retrieval-augmented generation, semantic search, and contextual AI responses.
+---
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · FastAPI · React · TypeScript · PostgreSQL · Vector Search · LLM APIs |
-| **Scale** | Modular architecture designed for growing knowledge bases |
-| **Performance** | Cached retrieval · optimized indexing · asynchronous processing |
-| **Security** | API authentication · input validation · access-controlled resources |
-| **Impact** | Converts large knowledge collections into searchable AI-assisted workflows |
-| **Repository** | [View Repository](https://github.com/unendev) |
+## ✦ AI / ML Expertise
 
-**Engineering Focus**
+<div align="center">
 
-- Designed an end-to-end ingestion and retrieval pipeline
-- Implemented semantic retrieval for context-aware responses
-- Separated ingestion, retrieval, generation, and presentation layers
-- Added extensible interfaces for future models and retrieval strategies
-- Optimized the architecture for maintainability and production evolution
+| Domain | Proficiency | Technical Details & Implementations |
+| :--- | :--- | :--- |
+| **Machine Learning** | Advanced | Scikit-Learn, Supervised/Unsupervised Learning, Regressions, Decision Trees |
+| **Data Engineering** | Advanced | Pandas, NumPy, Data Cleaning, Feature Engineering, EDA Pipelines |
+| **Deep Learning** | Intermediate | TensorFlow, PyTorch, Neural Networks, Predictive Modeling |
+| **Model Deployment** | Intermediate | FastAPI, Flask, Streamlit Integrations, RESTful API architecture |
 
-</details>
-
-<details>
-<summary><strong>AI Product & Productivity Platform</strong></summary>
+</div>
 
 <br/>
 
-A full-stack productivity platform combining application workflows, intelligent automation, analytics, and AI-assisted user experiences.
+---
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Next.js · TypeScript · React · Node.js · PostgreSQL · AI APIs |
-| **Scale** | Full-stack modular product architecture |
-| **Performance** | Server-side rendering · caching · optimized API workflows |
-| **Security** | Authentication · authorization · validation · secure API boundaries |
-| **Impact** | Brings productivity workflows and intelligent assistance into a unified product |
-| **Repository** | [View Repository](https://github.com/unendev) |
-
-**Engineering Focus**
-
-- Designed reusable frontend and backend abstractions
-- Built API-driven product architecture
-- Integrated AI capabilities directly into user workflows
-- Focused on responsive interfaces and maintainable application structure
-- Applied product-oriented iteration to engineering decisions
-
-</details>
+## ✦ Featured Projects
 
 <details>
-<summary><strong>Developer Automation Toolkit</strong></summary>
+<summary><b>🎬 AI-Powered Movie Recommendation Engine</b> <i>(Click to expand)</i></summary>
+<br>
+
+An intelligent recommendation system utilizing collaborative filtering and matrix factorization to deliver highly personalized content suggestions based on user interaction history.
+
+| Feature | Specification |
+| :--- | :--- |
+| **Core Stack** | Python, Pandas, Scikit-Learn, NumPy |
+| **Backend/UI** | Streamlit, FastAPI |
+| **Performance** | Optimized vector similarity search $O(N \log N)$ |
+| **Security** | Sanitized user inputs, strict type validation via Pydantic |
+| **Impact** | Increases content discovery efficiency and user retention metrics |
+| **Repository** | [![Repo](https://img.shields.io/badge/View_Source-1e0033?style=for-the-badge&logo=github&logoColor=8a2be2)](https://github.com/biplabbbbbb) |
+
+**Architecture Breakdown:** Built to handle sparse matrix datasets efficiently. The core logic relies on cosine similarity and KNN algorithms to compute content proximity, surfaced through a lightweight Streamlit interface designed strictly for data visualization without front-end bloat.
+</details>
 
 <br/>
 
-A collection of developer-focused utilities designed to automate repetitive workflows and improve engineering productivity.
+---
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · CLI · APIs · Git · Shell |
-| **Scale** | Extensible command-oriented architecture |
-| **Performance** | Concurrent execution · lightweight CLI workflows |
-| **Security** | Environment-based configuration · validated inputs |
-| **Impact** | Reduces repetitive development and operational tasks |
-| **Repository** | [View Repository](https://github.com/unendev) |
+## ✦ Experience
 
-**Engineering Focus**
+**AI/ML Engineering Student & Independent Builder**  
+*Parul Institute of Engineering and Technology*  
+*August 2024 – Present*  
 
-- Built automation around real developer workflows
-- Designed reusable command abstractions
-- Integrated external APIs and local tooling
-- Prioritized reliability, clear errors, and maintainable code
-- Optimized for developer experience and repeatability
+Dedicated to mastering enterprise-level software engineering through rigorous academic coursework and independent architectural projects.
+* Architecting machine learning models using Python ecosystem (Pandas, Scikit-Learn).
+* Solving complex algorithmic challenges using C++ and the Standard Template Library (STL).
+* Applying pattern-based problem solving (Two Pointers, Sliding Window) to emulate FAANG-level engineering standards.
 
-</details>
+`C++` `Python` `Core DSA` `Machine Learning` `FastAPI`
 
-<details>
-<summary><strong>Open Source Experiments & Engineering Labs</strong></summary>
+---
+
+## ✦ Achievements
+
+<div align="center">
+
+| Recognition & Milestone | Details |
+| :--- | :--- |
+| **Algorithmic Proficiency** | Consistently mastering pattern-based DSA in C++ to achieve optimal time complexities. |
+| **Technical Focus** | Successfully transitioned from full-stack web development to specialized AI/ML engineering, prioritizing backend logic over UI design. |
+
+</div>
 
 <br/>
 
-A continuously evolving collection of experiments exploring AI engineering, web development, automation, systems, and emerging developer technologies.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · TypeScript · JavaScript · React · APIs · AI/ML |
-| **Scale** | Multiple focused experiments and prototypes |
-| **Performance** | Iterative optimization and benchmarking |
-| **Security** | Secure defaults · validation · dependency hygiene |
-| **Impact** | Rapid exploration of technologies and engineering patterns |
-| **Repository** | [Explore Repositories](https://github.com/unendev?tab=repositories) |
-
-**Engineering Focus**
-
-- Rapidly prototype emerging technologies
-- Validate ideas through working software
-- Explore architecture patterns and developer tooling
-- Document technical learnings through implementation
-- Convert successful experiments into reusable systems
-
-</details>
-
 ---
 
-## Experience
-
-### Software Engineering & Product Development
-
-**Independent Engineering / Open Source**  
-`2024 — Present`
-
-Building software products and engineering projects across full-stack development, AI/ML, automation, and developer tooling.
-
-**Scope**
-
-- Design and implement full-stack applications
-- Build backend APIs and service integrations
-- Develop AI-powered workflows and intelligent applications
-- Design databases and application data models
-- Implement authentication, authorization, and security boundaries
-- Deploy and maintain cloud-ready applications
-- Experiment with emerging AI and developer technologies
-- Iterate from prototype to production-oriented architecture
-
-**Core Skills**
-
-`Software Engineering` `AI/ML` `Full Stack` `System Design` `APIs` `Cloud` `Databases` `Git` `Open Source`
-
----
-
-## Achievements
+## ✦ Certifications
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Open Source Contributor** | Building and experimenting with publicly accessible software projects |
-| **AI Engineering** | Developing practical applications around modern AI and LLM technologies |
-| **Full-Stack Development** | Designing complete frontend, backend, database, and deployment workflows |
-| **Product Engineering** | Translating ideas and user problems into functional software products |
-| **Continuous Learning** | Actively exploring modern software engineering and AI technologies |
+![C++](https://img.shields.io/badge/Core_C++_&_STL-Completed-4b0082?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Data_Structures-Active-8a2be2?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
----
-
-## Certifications
-
-### AWS
-
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
-### Oracle
-
-<a href="https://education.oracle.com/oracle-certification">
-<img src="https://img.shields.io/badge/Oracle-Technology%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
-
-### NPTEL
-
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Engineering%20Courses-6D28D9?style=for-the-badge"/>
-</a>
-
-### Cisco
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
+<br/>
 
 ---
 
-## Coding Profiles
+## ✦ GitHub Analytics
 
 <div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Engineering-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=biplabbbbbb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=a9a9b3&icon_color=4b0082" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplabbbbbb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=a9a9b3" alt="Top Languages" width="48%"/>
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplabbbbbb&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakLabel=8a2be2" alt="GitHub Streak" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
-## GitHub Analytics
+## ✦ GitHub Trophies
 
 <div align="center">
-
-<a href="https://github.com/unendev">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=unendev&show_icons=true&hide_border=true&bg_color=0D0A1A&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/unendev">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unendev&layout=compact&hide_border=true&bg_color=0D0A1A&title_color=A78BFA&text_color=CBD5E1&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=unendev&theme=transparent&hide_border=true&background=0D0A1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=biplabbbbbb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
 </div>
+
+<br/>
 
 ---
 
-## GitHub Trophies
+## ✦ Contribution Activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=unendev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biplabbbbbb&theme=tokyo-night&bg_color=0d1117&color=8a2be2&line=4b0082&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
+
+<br/>
 
 ---
 
-## Contribution Activity
+## ✦ Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unendev&bg_color=0D0A1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biplabbbbbb/biplabbbbbb/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biplabbbbbb/biplabbbbbb/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
+
+<br/>
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/unendev/unendev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
+## ✦ Current Focus
 
 ```yaml
-learning:
-  - Advanced AI Engineering
-  - System Design
-  - Distributed Systems
-  - Cloud Architecture
-  - Production LLM Applications
-
-building:
-  - AI-powered products
-  - Full-stack applications
-  - Developer tools
-  - Open-source experiments
-
-exploring:
-  - Agentic AI
-  - RAG architectures
-  - LLM evaluation
-  - Cloud-native systems
-  - Developer productivity
-
-open_to:
-  - Software Engineering
-  - AI/ML Engineering
-  - Full-Stack Engineering
-  - Open Source Collaboration
-  - Product Engineering
+Current_Status:
+  Learning: 
+    - "C++ STL Deep Dive (Vectors, Maps, Sets)"
+    - "Pattern-Based DSA (Sliding Window, Fast & Slow Pointers)"
+  Building: 
+    - "Scalable Python Machine Learning Models"
+  Exploring: 
+    - "Model deployment optimization techniques"
+  Open_To: 
+    - "SDE Internships (Summer/Fall)"
